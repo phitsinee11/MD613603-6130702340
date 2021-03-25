@@ -1,0 +1,1156 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1316; Version 1909; 64bit' Language: 'en' Physical Memory: 12199 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+H:/PBALL/MD613603-6130702340/AR6130702340
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63858
+Successfully changed project path to: H:/PBALL/MD613603-6130702340/AR6130702340
+H:/PBALL/MD613603-6130702340/AR6130702340
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 51.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/PBALL/MD613603-6130702340/AR6130702340/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   
+    VRAM:     1040 MB
+    Driver:   9.17.10.4459
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005348 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 51.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.640 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001262 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 49.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.726 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1486 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.9 MB.
+System memory in use after: 67.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1925.
+Total: 2.708700 ms (FindLiveObjects: 0.197400 ms CreateObjectMapping: 0.076600 ms MarkObjects: 2.244200 ms  DeleteObjects: 0.188400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sound
+  artifactKey: Guid(d0783962b5cd0ff438b7b04ecfe0be33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound using Guid(d0783962b5cd0ff438b7b04ecfe0be33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e0882fae6ebc2ae11383fd954626eb') in 0.019807 seconds
+  Import took 0.024588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.292647 seconds.
+  path: Assets/Sound/footsteps-boots-interior-tile.wav
+  artifactKey: Guid(aac19313d1a824b488fa4edb49a86bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/footsteps-boots-interior-tile.wav using Guid(aac19313d1a824b488fa4edb49a86bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60634690f65a080f081fc1d941b27d09') in 0.247450 seconds
+  Import took 0.266773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Sound/stomp-and-claps.mp3
+  artifactKey: Guid(8ba8ef9c541fe7a47b09b9d23923a7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/stomp-and-claps.mp3 using Guid(8ba8ef9c541fe7a47b09b9d23923a7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b3c34b6a964b88ee32e359f5da8bce1') in 0.063891 seconds
+  Import took 0.067299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Sound/NFF-gun-miss.wav
+  artifactKey: Guid(6140559f646674044b592fe1060020ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/NFF-gun-miss.wav using Guid(6140559f646674044b592fe1060020ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3846b2ffcc88a51183c2c656c3d1cfae') in 0.042515 seconds
+  Import took 0.047433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Sound/Stone 02.wav
+  artifactKey: Guid(f3d1267b1f06d4548a369077c5241a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Stone 02.wav using Guid(f3d1267b1f06d4548a369077c5241a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd9ce1aab55f464fec6afd1434e8297') in 0.051723 seconds
+  Import took 0.057393 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001918 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.408 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1492 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.8 MB.
+System memory in use after: 72.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1942.
+Total: 5.971900 ms (FindLiveObjects: 0.203300 ms CreateObjectMapping: 0.071100 ms MarkObjects: 2.400600 ms  DeleteObjects: 3.295000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 1029.732541 seconds.
+  path: Assets/Suriyun/Dragons_SD
+  artifactKey: Guid(45efb4faa030aed4493ab5bd08368c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD using Guid(45efb4faa030aed4493ab5bd08368c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c5a5f99cb821c64de2fff365801abd4') in 0.035146 seconds
+  Import took 0.040388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.289445 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Die.fbx
+  artifactKey: Guid(a613a74bc1d5e464bb10e85beed0b153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Die.fbx using Guid(a613a74bc1d5e464bb10e85beed0b153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cbca84635b64e2e4ae81f65631f1734') in 0.081643 seconds
+  Import took 0.086148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly_Down.fbx
+  artifactKey: Guid(5b0aee287ad2f17438b61b81fcc62f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly_Down.fbx using Guid(5b0aee287ad2f17438b61b81fcc62f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8350f67baa74875c74abbedc8a61c0') in 0.024452 seconds
+  Import took 0.030836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly_Up.fbx
+  artifactKey: Guid(d1ea70e1349845b4fa771600b24e6b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly_Up.fbx using Guid(d1ea70e1349845b4fa771600b24e6b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e64d53789570e0938026530ae7caca85') in 0.037594 seconds
+  Import took 0.043373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001716 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Run_R.fbx
+  artifactKey: Guid(ec9b70dba28331f4ab6240ae2c7d4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Run_R.fbx using Guid(ec9b70dba28331f4ab6240ae2c7d4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b8e80147ee467139cf7603ff971341') in 0.033515 seconds
+  Import took 0.040455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000967 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Idle.fbx
+  artifactKey: Guid(e90fb7829e1df964a940ca135a44e094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Idle.fbx using Guid(e90fb7829e1df964a940ca135a44e094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f22e0b26260b018a97925bc702f3818') in 0.032680 seconds
+  Import took 0.041791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000849 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_No.fbx
+  artifactKey: Guid(14d7a32f6631f6049bd616bbdf7aa89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_No.fbx using Guid(14d7a32f6631f6049bd616bbdf7aa89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4911d7b97a604257f3a7de431a1efab3') in 0.031025 seconds
+  Import took 0.039148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000675 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Rest.fbx
+  artifactKey: Guid(0cbe56e545652b049bc7723fc5ebd85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Rest.fbx using Guid(0cbe56e545652b049bc7723fc5ebd85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '523cb63ee06cdaf34870214d7cafcd51') in 0.027288 seconds
+  Import took 0.035177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly_Fire.fbx
+  artifactKey: Guid(d61ee02ae94362b48966eae30e56bf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly_Fire.fbx using Guid(d61ee02ae94362b48966eae30e56bf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d040ca6c5db85640575bca1001e13bb') in 0.029383 seconds
+  Import took 0.040710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly_L.fbx
+  artifactKey: Guid(99141d700f293e64a9ff9f50988ce6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly_L.fbx using Guid(99141d700f293e64a9ff9f50988ce6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a26d5487dc0ac96d9ee620a5580f86') in 0.031594 seconds
+  Import took 0.038556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Walk_R.fbx
+  artifactKey: Guid(cf58a32664f4dfd40abe0a1475ce519b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Walk_R.fbx using Guid(cf58a32664f4dfd40abe0a1475ce519b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf89465f309850962cc9f456e74ee15') in 0.031348 seconds
+  Import took 0.038794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Run_L.fbx
+  artifactKey: Guid(a928c9180fafa1d4987868a3c5d3b439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Run_L.fbx using Guid(a928c9180fafa1d4987868a3c5d3b439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe64abb0f808e3ece8a919eb144b9cd') in 0.027094 seconds
+  Import took 0.034120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Sick.fbx
+  artifactKey: Guid(8c2ad24b84fd5714e8f27d559359a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Sick.fbx using Guid(8c2ad24b84fd5714e8f27d559359a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f275e435cb831be7d150c7e56cd9d05b') in 0.034567 seconds
+  Import took 0.040602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Roar.fbx
+  artifactKey: Guid(f96c5541ec874cb4ea42f6bc6474c3ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Roar.fbx using Guid(f96c5541ec874cb4ea42f6bc6474c3ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97c652ab8cd2ca643e6cf7a74734382c') in 0.029783 seconds
+  Import took 0.037313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Walk_L.fbx
+  artifactKey: Guid(4e2dd4b3c4d022e40b80614f183a322a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Walk_L.fbx using Guid(4e2dd4b3c4d022e40b80614f183a322a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3433b3e9471b76b9ca0160e9fc58007') in 0.029285 seconds
+  Import took 0.037105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000580 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly_R.fbx
+  artifactKey: Guid(a8cd365c739ec4a4598e137d505afb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly_R.fbx using Guid(a8cd365c739ec4a4598e137d505afb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24a49afda1764ddf95b01b79f20e1095') in 0.032794 seconds
+  Import took 0.038651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fire.fbx
+  artifactKey: Guid(ce8b91eea3deacc4291aee26457a92c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fire.fbx using Guid(ce8b91eea3deacc4291aee26457a92c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7169af2ce90e0a6f231b41162fc961b3') in 0.023367 seconds
+  Import took 0.028002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Eat.fbx
+  artifactKey: Guid(0b3eb72e4efc1274a870a4719c8a7ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Eat.fbx using Guid(0b3eb72e4efc1274a870a4719c8a7ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e281d324179dca4d4fd6cc3d9ef2ce') in 0.027887 seconds
+  Import took 0.035982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Run.fbx
+  artifactKey: Guid(350a76b739c5bd0438cb0ac1df48bcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Run.fbx using Guid(350a76b739c5bd0438cb0ac1df48bcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84941936475c1b7911c656fe44f9110') in 0.026006 seconds
+  Import took 0.032289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Suriyun/Dragons_SD/FBX/DragonSD_B.fbx
+  artifactKey: Guid(fa891a7d8b093ac47af23885c2f7f773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/FBX/DragonSD_B.fbx using Guid(fa891a7d8b093ac47af23885c2f7f773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12268f462885506b7f251a3f5037d484') in 0.998845 seconds
+  Import took 1.003599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Suriyun/Dragons_SD/FBX/DragonSD_A.fbx
+  artifactKey: Guid(40d66aae74632074e81b61b2073c204c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/FBX/DragonSD_A.fbx using Guid(40d66aae74632074e81b61b2073c204c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c5e3c8f3e4054aedb2272935b2838c') in 0.437139 seconds
+  Import took 0.444398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000698 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_08.mat
+  artifactKey: Guid(2ec99b3ac35c9a34a919ace70a38fa38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_08.mat using Guid(2ec99b3ac35c9a34a919ace70a38fa38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851e7ab29a3bbba727a5cc19127b9437') in 0.251410 seconds
+  Import took 0.259078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_14.mat
+  artifactKey: Guid(f7009dc96183a024d83b244a71ac0abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_14.mat using Guid(f7009dc96183a024d83b244a71ac0abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33047b6aec8014e9dade848d7898007b') in 0.178166 seconds
+  Import took 0.182986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_17.mat
+  artifactKey: Guid(b3b02a614ecf91649b26c11304545349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_17.mat using Guid(b3b02a614ecf91649b26c11304545349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5dc4e3987c81349952fc71e44e13f71') in 0.145668 seconds
+  Import took 0.149912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_24.mat
+  artifactKey: Guid(05293675294806740869e16fb5710f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_24.mat using Guid(05293675294806740869e16fb5710f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74692a951e4b5e2df53e29986c83a400') in 0.156180 seconds
+  Import took 0.160243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_00.mat
+  artifactKey: Guid(e8df8ea8a51f85942a8107654cc57052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_00.mat using Guid(e8df8ea8a51f85942a8107654cc57052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6337967726ea59c2cb251a42998ca2') in 0.146145 seconds
+  Import took 0.150372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_02.mat
+  artifactKey: Guid(d03d99f6e5ef17f4fb09d4709a4ce82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_02.mat using Guid(d03d99f6e5ef17f4fb09d4709a4ce82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b118a07d3f74480fcd616a6bd10a669b') in 0.150498 seconds
+  Import took 0.155043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_06.mat
+  artifactKey: Guid(b951a316889d9914380e95aa447198fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_06.mat using Guid(b951a316889d9914380e95aa447198fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd6457eb5137615deb988c461f73ab9') in 0.154259 seconds
+  Import took 0.158586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Suriyun/Dragons_SD/FBX/DragonSD_C.fbx
+  artifactKey: Guid(25567ed5ba919064a9de1228dfd2d8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/FBX/DragonSD_C.fbx using Guid(25567ed5ba919064a9de1228dfd2d8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd185b444e2d1bb67a9fe37611a13f796') in 0.382458 seconds
+  Import took 0.387080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_10.prefab
+  artifactKey: Guid(122d8eba2b1adca4da2da16f62f0f01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_10.prefab using Guid(122d8eba2b1adca4da2da16f62f0f01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3fb811773024ea0f24fe1229b958455') in 0.214927 seconds
+  Import took 0.221525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_18.prefab
+  artifactKey: Guid(568c5f9d1fb143542aee976bd29c0ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_18.prefab using Guid(568c5f9d1fb143542aee976bd29c0ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8c4e709f0bb9b6b4edb29562fb1697') in 0.195366 seconds
+  Import took 0.202056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_31.prefab
+  artifactKey: Guid(44a0e4b864337154199d51e64880e6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_31.prefab using Guid(44a0e4b864337154199d51e64880e6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '618bbb367534cef13f8d2f97b3e315d5') in 0.473992 seconds
+  Import took 0.480193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_00.prefab
+  artifactKey: Guid(3140943fe59865544a622c4bb27280b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_00.prefab using Guid(3140943fe59865544a622c4bb27280b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8603343355e05fae034940ddd8c230b3') in 0.206118 seconds
+  Import took 0.214147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_08.prefab
+  artifactKey: Guid(cb2c6c3b2b373714d97664a124baa578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_08.prefab using Guid(cb2c6c3b2b373714d97664a124baa578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228e2783c1c741cff9f87d059a50ee16') in 0.187171 seconds
+  Import took 0.194294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_28.prefab
+  artifactKey: Guid(722718e4efd9bba4099e2346f41c3ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_28.prefab using Guid(722718e4efd9bba4099e2346f41c3ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b2ec7db52bbf787d78cb4daffc85b40') in 0.199512 seconds
+  Import took 0.206051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_15.mat
+  artifactKey: Guid(3857487c9ee9bdc478d7733b2729def8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_15.mat using Guid(3857487c9ee9bdc478d7733b2729def8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38dd08de3199e8a70871e4a84ac3475') in 0.157708 seconds
+  Import took 0.162460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_13.mat
+  artifactKey: Guid(9f4b5ad522b1b034ea9634deb1030567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_13.mat using Guid(9f4b5ad522b1b034ea9634deb1030567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d6ddc5bd3a3fb174a6c64a72fcc98ee') in 0.147259 seconds
+  Import took 0.151576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_22.mat
+  artifactKey: Guid(bc3d42160697f004cbaddbc041e4f977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_22.mat using Guid(bc3d42160697f004cbaddbc041e4f977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ec14c4dd35df528c9bc0792ddbf782') in 0.154410 seconds
+  Import took 0.158852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_16.mat
+  artifactKey: Guid(467c661f848620243a1712b7522d6065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_16.mat using Guid(467c661f848620243a1712b7522d6065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac96b8f75f04742574d220b9c587bc8') in 0.156723 seconds
+  Import took 0.161722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_32.mat
+  artifactKey: Guid(804b228f18f367d4c82e253fb5638eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_32.mat using Guid(804b228f18f367d4c82e253fb5638eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65858058efd85f3e126d942421c88e08') in 0.156261 seconds
+  Import took 0.160400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_02.prefab
+  artifactKey: Guid(f9a062521a684b84ca1179c0a24985f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_02.prefab using Guid(f9a062521a684b84ca1179c0a24985f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaef01053a2c1fc43d97121253a07e90') in 0.209201 seconds
+  Import took 0.216237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_25.prefab
+  artifactKey: Guid(79aba2b36e18a95459b5c6d2f48dd126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_25.prefab using Guid(79aba2b36e18a95459b5c6d2f48dd126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f04b006be95595a3846eb2d8943ce11') in 0.202331 seconds
+  Import took 0.209382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_11.mat
+  artifactKey: Guid(d64cbf29694b7654e827b620baa914de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_11.mat using Guid(d64cbf29694b7654e827b620baa914de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2090450413b4250daa5e05b178ef764') in 0.152656 seconds
+  Import took 0.156972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_10.mat
+  artifactKey: Guid(c07ae2dacbec7674cb51a9cf08d5fb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_10.mat using Guid(c07ae2dacbec7674cb51a9cf08d5fb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3292b33dc986eb1954bd4100ae6f061c') in 0.150623 seconds
+  Import took 0.154970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_32.prefab
+  artifactKey: Guid(1d53218649bda924ba746cf74c4b26a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_32.prefab using Guid(1d53218649bda924ba746cf74c4b26a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83648be36a14756d2f80d811eda46668') in 0.257817 seconds
+  Import took 0.264809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_19.mat
+  artifactKey: Guid(b47dce5a0473dc14494c502b7e39f656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_19.mat using Guid(b47dce5a0473dc14494c502b7e39f656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92a6550b9a46f09caeccbd048e63d944') in 0.162455 seconds
+  Import took 0.166894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_18.mat
+  artifactKey: Guid(5ae212ba85cec4c4fa438ac072928164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_18.mat using Guid(5ae212ba85cec4c4fa438ac072928164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '529c4ad5c256b38a0aa0898f4d07d0de') in 0.157850 seconds
+  Import took 0.162387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_30.mat
+  artifactKey: Guid(cf4fe97736a188847a6b1def71d69e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_30.mat using Guid(cf4fe97736a188847a6b1def71d69e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018e920603fabc0edbb16c5003b328c4') in 0.148079 seconds
+  Import took 0.152067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_23.mat
+  artifactKey: Guid(b921c7e5264e06e48abaf362c9c4b9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_23.mat using Guid(b921c7e5264e06e48abaf362c9c4b9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ff9dc4e17e0ae5418e185450a1123f') in 0.152705 seconds
+  Import took 0.156923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_20.prefab
+  artifactKey: Guid(452e2cddd97b56840b24d2c2e6b7a75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_20.prefab using Guid(452e2cddd97b56840b24d2c2e6b7a75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44865fda90ed15af41d1fe5ed34054b9') in 0.193398 seconds
+  Import took 0.199745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_05.prefab
+  artifactKey: Guid(703ce5bbc424ac947a039312c8c18b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_05.prefab using Guid(703ce5bbc424ac947a039312c8c18b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b390875ef99fb75069838935deab6319') in 0.195020 seconds
+  Import took 0.201752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_01.prefab
+  artifactKey: Guid(7151b5baa6542f74c809ee505e77a3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_01.prefab using Guid(7151b5baa6542f74c809ee505e77a3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf6e1d8d22ec544620c04f981be79c88') in 0.192630 seconds
+  Import took 0.199038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_30.prefab
+  artifactKey: Guid(a30585b1a7217b14886c51afd5b3bc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_30.prefab using Guid(a30585b1a7217b14886c51afd5b3bc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817e1e9acda6ed843e1fc2560911291e') in 0.201244 seconds
+  Import took 0.209857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_29.mat
+  artifactKey: Guid(d5f115274d54d5c408218ac42d5b9dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_29.mat using Guid(d5f115274d54d5c408218ac42d5b9dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce342b7a31dc1b2fbdda1a71e8d0a9a6') in 0.169802 seconds
+  Import took 0.174049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_25.mat
+  artifactKey: Guid(83162f661aca70643ae2e534bdcb514a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_25.mat using Guid(83162f661aca70643ae2e534bdcb514a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999621f1e81b1e20f2175e681f2f3ef2') in 0.156462 seconds
+  Import took 0.160729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_21.mat
+  artifactKey: Guid(8703f119a88a8ba4ea4d4ba14505af1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_21.mat using Guid(8703f119a88a8ba4ea4d4ba14505af1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f3df35a7ed5d899d29f70b27997a3f') in 0.153248 seconds
+  Import took 0.157355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Yes.fbx
+  artifactKey: Guid(10fdf7d751a2aef4bbb1b02c5b1e3f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Yes.fbx using Guid(10fdf7d751a2aef4bbb1b02c5b1e3f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47397fc77cc04212664635a5dc8336f') in 0.029331 seconds
+  Import took 0.034354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_27.mat
+  artifactKey: Guid(93ea91d51042e1e43a1008bee4a2f719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_27.mat using Guid(93ea91d51042e1e43a1008bee4a2f719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e5df44220da5229b63e982230c8dc5f') in 0.179169 seconds
+  Import took 0.185134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_17.prefab
+  artifactKey: Guid(520a57fedc918a94d8b7e09350cce681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_17.prefab using Guid(520a57fedc918a94d8b7e09350cce681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c62bca1a51dd6c4902695754ce4db76a') in 0.199252 seconds
+  Import took 0.206434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_22.prefab
+  artifactKey: Guid(77af6b5319153d646bdc5f28b7b9e486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_22.prefab using Guid(77af6b5319153d646bdc5f28b7b9e486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '253b57eef29013411e0fcd4cb393ca86') in 0.248595 seconds
+  Import took 0.255693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Walk.fbx
+  artifactKey: Guid(0f9a1676d37847f4fbb1374ebd2a6331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Walk.fbx using Guid(0f9a1676d37847f4fbb1374ebd2a6331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a6f42038cc623a0c54673109974dc3') in 0.025415 seconds
+  Import took 0.030668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_04.mat
+  artifactKey: Guid(f180d29a123d50c43bdbe6f56f0dd130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_04.mat using Guid(f180d29a123d50c43bdbe6f56f0dd130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2001e349af9631588ba1db7fa3ee7031') in 0.168957 seconds
+  Import took 0.174344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_03.prefab
+  artifactKey: Guid(3fdcd10a3a355844fa2616356b1404b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_03.prefab using Guid(3fdcd10a3a355844fa2616356b1404b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eccb862303aed7b87a9dfd77456c52b7') in 0.203248 seconds
+  Import took 0.209821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_03.mat
+  artifactKey: Guid(fb6231e57304bec4e80f99693085ecbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_03.mat using Guid(fb6231e57304bec4e80f99693085ecbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2232dd06ea5dd7759f90ffe24ca9fef') in 0.159230 seconds
+  Import took 0.165159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_15.prefab
+  artifactKey: Guid(b233c1b3d0dd5a44d85d76ddf7c4fa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_15.prefab using Guid(b233c1b3d0dd5a44d85d76ddf7c4fa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f438b37b2376f41e03178ff2489797') in 0.246686 seconds
+  Import took 0.255501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/Snow_particle.mat
+  artifactKey: Guid(83d46338c3997024ca27f64fbb8ec5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/Snow_particle.mat using Guid(83d46338c3997024ca27f64fbb8ec5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195384300c3490227ab9f545dfef28d4') in 0.119641 seconds
+  Import took 0.124014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_14.prefab
+  artifactKey: Guid(ec2d07726e70d7a498c46622a333b6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_14.prefab using Guid(ec2d07726e70d7a498c46622a333b6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6ba82e3cf39e9ec6c28b2fc2029865') in 0.218351 seconds
+  Import took 0.226815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_26.mat
+  artifactKey: Guid(e016a6c7515ce7443aadbe59d10e78e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_26.mat using Guid(e016a6c7515ce7443aadbe59d10e78e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b82ff7b9e5e4cf5c26dc9486ac503b') in 0.173472 seconds
+  Import took 0.178390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_16.prefab
+  artifactKey: Guid(569f40198b818004ca34c09f3da421d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_16.prefab using Guid(569f40198b818004ca34c09f3da421d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5edf7986cae7edfae2e5c420af5779b9') in 0.203004 seconds
+  Import took 0.209909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_12.prefab
+  artifactKey: Guid(0f0e607381030a74ea12700888509f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_12.prefab using Guid(0f0e607381030a74ea12700888509f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da8d71728200c1d254c0ef2bd7df9bb9') in 0.250443 seconds
+  Import took 0.257260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_04.prefab
+  artifactKey: Guid(20b36a28e440b1a4f8a0fb5e42c129f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_04.prefab using Guid(20b36a28e440b1a4f8a0fb5e42c129f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58b404acdeec5d7b4c9aa38c8c1b340') in 0.254910 seconds
+  Import took 0.261920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_26.prefab
+  artifactKey: Guid(03cb61efd4866d74c9bacbedff2c41e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_26.prefab using Guid(03cb61efd4866d74c9bacbedff2c41e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4139ec9555454558050c487f263f0071') in 0.215446 seconds
+  Import took 0.222825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_09.mat
+  artifactKey: Guid(f6de7118166d32643adb9bcb32859211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_09.mat using Guid(f6de7118166d32643adb9bcb32859211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3057b4754e11a132f2134ee0354ed70') in 0.173539 seconds
+  Import took 0.177780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_28.mat
+  artifactKey: Guid(824007e61f6a73b41aa4c78d524e4473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_28.mat using Guid(824007e61f6a73b41aa4c78d524e4473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56791184179adf0fbe4f6b57a150b06') in 0.156424 seconds
+  Import took 0.161363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_07.prefab
+  artifactKey: Guid(be1a9ee94fe55694bb737332fb0d4b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_07.prefab using Guid(be1a9ee94fe55694bb737332fb0d4b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a351b6a5c6ffff3ccd6695b8ecadc5') in 0.202329 seconds
+  Import took 0.208982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_11.prefab
+  artifactKey: Guid(ec00c259f4c043645b37ae023bc65a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_11.prefab using Guid(ec00c259f4c043645b37ae023bc65a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6f7a737d19d11b57badac44d0abed5') in 0.191802 seconds
+  Import took 0.198732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_24.prefab
+  artifactKey: Guid(558730ff70f8c0d4a8540bd9219a8e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_24.prefab using Guid(558730ff70f8c0d4a8540bd9219a8e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b7a10487d575b93de187593cc45399') in 0.202294 seconds
+  Import took 0.209349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_09.prefab
+  artifactKey: Guid(2796ca58b5e5a0c49979bfe7ef1661c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_09.prefab using Guid(2796ca58b5e5a0c49979bfe7ef1661c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf194a85b85ce588eec50a94f099baf') in 0.242025 seconds
+  Import took 0.251059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Suriyun/Dragons_SD/FBX/DragonSD_D.fbx
+  artifactKey: Guid(da73972856a5c4f46a8a6ad30b003c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/FBX/DragonSD_D.fbx using Guid(da73972856a5c4f46a8a6ad30b003c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608f2b02d68238e7ca12043733b0288b') in 0.269939 seconds
+  Import took 0.274566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_20.mat
+  artifactKey: Guid(947d9ee77c015d74e8e047472e5637ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_20.mat using Guid(947d9ee77c015d74e8e047472e5637ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c96397c59e93de7581a6e0a9de657bf') in 0.150903 seconds
+  Import took 0.155156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_01.mat
+  artifactKey: Guid(4d698b5b556e48549a7eefa282f74255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_01.mat using Guid(4d698b5b556e48549a7eefa282f74255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12613f91d5a7cff778541db8c0bd348f') in 0.150013 seconds
+  Import took 0.154438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/Green_Floor.mat
+  artifactKey: Guid(b0e6878e54a82ea4899cf14dfd431491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/Green_Floor.mat using Guid(b0e6878e54a82ea4899cf14dfd431491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd09ad6137fc66c150d12bb80540cedd4') in 0.079817 seconds
+  Import took 0.084405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_23.prefab
+  artifactKey: Guid(198bb39651224374088d6bdbf31dda79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_23.prefab using Guid(198bb39651224374088d6bdbf31dda79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be32f66808445c85733aeb942c20329') in 0.192175 seconds
+  Import took 0.198743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly.fbx
+  artifactKey: Guid(6c4d3787091bc1c408c4e0c821d9f22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Fly.fbx using Guid(6c4d3787091bc1c408c4e0c821d9f22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd3443a859940b6d84923f89480543b9') in 0.023811 seconds
+  Import took 0.029400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_07.mat
+  artifactKey: Guid(290a11fb13193d843b8b35d16c4aa53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_07.mat using Guid(290a11fb13193d843b8b35d16c4aa53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15a57d251deefeadb435513ae47fabc') in 0.167350 seconds
+  Import took 0.173908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_21.prefab
+  artifactKey: Guid(c7efb3461f319dd4ea081732203cda91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_21.prefab using Guid(c7efb3461f319dd4ea081732203cda91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbbbce683662d4c19af96ad9ae8e2b1') in 0.271299 seconds
+  Import took 0.278571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Jump.fbx
+  artifactKey: Guid(dc2c429e748ab68488dcbdb7b53da827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Animations/Anim_Dra_Jump.fbx using Guid(dc2c429e748ab68488dcbdb7b53da827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b237862483cbcf51d87adcef59379de7') in 0.030245 seconds
+  Import took 0.039188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000748 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_05.mat
+  artifactKey: Guid(a8ea671c0aa0e884eb6b3cf82068e039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_05.mat using Guid(a8ea671c0aa0e884eb6b3cf82068e039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e0bb60bfae7fb56137e38b9e353078') in 0.179929 seconds
+  Import took 0.188232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000765 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_13.prefab
+  artifactKey: Guid(c47561c7d6812c4499a151493efa3b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_13.prefab using Guid(c47561c7d6812c4499a151493efa3b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2295a31b1b836e85a430640c78dd1074') in 0.302527 seconds
+  Import took 0.313443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_06.prefab
+  artifactKey: Guid(7506c4aeee20d6e4fb9e7035a534191f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_06.prefab using Guid(7506c4aeee20d6e4fb9e7035a534191f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe6797b86b87ded4fcadf1185edaac2') in 0.384115 seconds
+  Import took 0.397564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000707 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_29.prefab
+  artifactKey: Guid(0f886aac380918944bbfcc40117581ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_29.prefab using Guid(0f886aac380918944bbfcc40117581ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dbe65b0b1ac3f235b21bc2773f6e503') in 0.228942 seconds
+  Import took 0.236589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_27.prefab
+  artifactKey: Guid(a0969ab028339654390317b9d7d9c862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_27.prefab using Guid(a0969ab028339654390317b9d7d9c862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3f0e2382a9a1fa40183b566c2f53c0') in 0.198445 seconds
+  Import took 0.205561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_31.mat
+  artifactKey: Guid(4f423c247f6189247a9db71e56abdbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_31.mat using Guid(4f423c247f6189247a9db71e56abdbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c98e6c0d901b5aa81e48863a0fba242') in 0.163570 seconds
+  Import took 0.169753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Suriyun/Dragons_SD/Materials/T_Dragon_12.mat
+  artifactKey: Guid(727881c9382c07e418fec2499c60b34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Materials/T_Dragon_12.mat using Guid(727881c9382c07e418fec2499c60b34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c4abbb9b1ada82537420e77526ba5a0') in 0.167492 seconds
+  Import took 0.172736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Suriyun/Dragons_SD/Prefab/DragonSD_19.prefab
+  artifactKey: Guid(98031261bb88a9d4dab3d67524e0c3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Dragons_SD/Prefab/DragonSD_19.prefab using Guid(98031261bb88a9d4dab3d67524e0c3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74d15e00be4154c308ce5780964c7289') in 0.209521 seconds
+  Import took 0.217596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1282.552501 seconds.
+  path: Assets/Suriyun/Scripts
+  artifactKey: Guid(fa6bf1c0947d31b4f99435555358ef8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Scripts using Guid(fa6bf1c0947d31b4f99435555358ef8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee62968120524859c2e0fb5c1cec12a') in 0.059413 seconds
+  Import took 0.066399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.510207 seconds.
+  path: Assets/Suriyun/Scripts/Monster.cs
+  artifactKey: Guid(2a74158a8641ff145bb5020e14bc0ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Suriyun/Scripts/Monster.cs using Guid(2a74158a8641ff145bb5020e14bc0ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f08746cd0a1edd4bbbdae3db897c82') in 0.062215 seconds
+  Import took 0.070052 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001256 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.635 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1492 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 74.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1988.
+Total: 5.815100 ms (FindLiveObjects: 0.255200 ms CreateObjectMapping: 0.074700 ms MarkObjects: 2.400000 ms  DeleteObjects: 3.082700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001262 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.544 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1489 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1990.
+Total: 5.798500 ms (FindLiveObjects: 0.233500 ms CreateObjectMapping: 0.073200 ms MarkObjects: 2.275800 ms  DeleteObjects: 3.214100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 47.381916 seconds.
+  path: Assets/Script/Monster.cs
+  artifactKey: Guid(b4fa3ffd42312e84ab7f5a411fd703da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Monster.cs using Guid(b4fa3ffd42312e84ab7f5a411fd703da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f99130bea109cdda5963ee6b1d7ce9c9') in 0.017791 seconds
+  Import took 0.024898 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001805 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.575 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1490 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.8 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1994.
+Total: 5.549000 ms (FindLiveObjects: 0.209200 ms CreateObjectMapping: 0.075000 ms MarkObjects: 2.247900 ms  DeleteObjects: 3.015200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001287 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.259 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1490 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.8 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1997.
+Total: 7.225300 ms (FindLiveObjects: 0.346900 ms CreateObjectMapping: 0.095000 ms MarkObjects: 2.485700 ms  DeleteObjects: 4.295100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001361 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.839 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1490 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.8 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2000.
+Total: 6.064600 ms (FindLiveObjects: 0.224100 ms CreateObjectMapping: 0.073000 ms MarkObjects: 2.286500 ms  DeleteObjects: 3.478600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002070 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.860 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1490 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.8 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2003.
+Total: 5.954600 ms (FindLiveObjects: 0.213900 ms CreateObjectMapping: 0.072200 ms MarkObjects: 2.258600 ms  DeleteObjects: 3.407300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001810 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.904 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1490 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.8 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2006.
+Total: 14.617100 ms (FindLiveObjects: 1.663900 ms CreateObjectMapping: 0.292400 ms MarkObjects: 5.067900 ms  DeleteObjects: 7.588700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001336 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.945 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1490 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.8 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2009.
+Total: 5.853500 ms (FindLiveObjects: 0.216300 ms CreateObjectMapping: 0.072200 ms MarkObjects: 2.379700 ms  DeleteObjects: 3.183000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 47.3 MB.
+System memory in use after: 45.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2010.
+Total: 8.345500 ms (FindLiveObjects: 0.244400 ms CreateObjectMapping: 0.130800 ms MarkObjects: 3.139200 ms  DeleteObjects: 4.828400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

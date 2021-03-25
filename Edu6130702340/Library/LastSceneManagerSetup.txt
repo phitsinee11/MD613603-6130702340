@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Edu6130702340.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

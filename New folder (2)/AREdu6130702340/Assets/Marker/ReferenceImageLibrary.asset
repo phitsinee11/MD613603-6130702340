@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4949744240680765950
+  m_GuidHigh: 3245680499484093867
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5084823335705612469
+      m_GuidHigh: 9967300786838395816
+    m_SerializedTextureGuid:
+      m_GuidLow: 9531666155226376300
+      m_GuidHigh: 12163210539091715960
+    m_Size: {x: 1, y: 0.66625}
+    m_SpecifySize: 1
+    m_Name: panda
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5609843520649083207
+      m_GuidHigh: 12451587975011548084
+    m_SerializedTextureGuid:
+      m_GuidLow: 6115803116421899769
+      m_GuidHigh: 1594669455203428107
+    m_Size: {x: 1, y: 0.66625}
+    m_SpecifySize: 1
+    m_Name: chicken
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5370567584476119114
+      m_GuidHigh: 3934068665634070922
+    m_SerializedTextureGuid:
+      m_GuidLow: 8367736790902173582
+      m_GuidHigh: 68107432889670776
+    m_Size: {x: 1, y: 0.625}
+    m_SpecifySize: 1
+    m_Name: turtle
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5010373881629263098
+      m_GuidHigh: 8826300359122358415
+    m_SerializedTextureGuid:
+      m_GuidLow: 12981894028802662559
+      m_GuidHigh: 6340523636262490056
+    m_Size: {x: 1, y: 0.66625}
+    m_SpecifySize: 1
+    m_Name: rhino
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4885690009927669763
+      m_GuidHigh: 4931053979309327247
+    m_SerializedTextureGuid:
+      m_GuidLow: 1454001399292989823
+      m_GuidHigh: 6905243069298095001
+    m_Size: {x: 1, y: 0.6625}
+    m_SpecifySize: 1
+    m_Name: kong
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4721857876240920263
+      m_GuidHigh: 9264481324324704169
+    m_SerializedTextureGuid:
+      m_GuidLow: 9548290921259341398
+      m_GuidHigh: 11339473323097815464
+    m_Size: {x: 1, y: 0.6625}
+    m_SpecifySize: 1
+    m_Name: sheep
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5267203633530019316
+      m_GuidHigh: 11842994439882719655
+    m_SerializedTextureGuid:
+      m_GuidLow: 3794938982841308296
+      m_GuidHigh: 6366481336337784553
+    m_Size: {x: 1, y: 0.6625}
+    m_SpecifySize: 1
+    m_Name: rat
+    m_Texture: {fileID: 0}
